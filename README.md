@@ -19,7 +19,7 @@ A simple interactive chatbot built with React and Vite that simulates conversati
 - supersimpledev Chatbot API
 
 ## Screenshot
-
+![alt text](image.png)
 
 ## Project Structure
 
